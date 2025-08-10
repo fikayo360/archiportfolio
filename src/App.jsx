@@ -464,7 +464,7 @@ function App() {
             <div className="footer-logo">Handshake</div>
             <div className="footer-credits">
               <span>Handshake © 2099</span>
-              <span>Built by <a href='https://fikayobytes.netlify.app/'>Fikayo the badass</a> in Framer</span>
+              <span>Built by <a href='https://fikayobytes.netlify.app/' style={{color:'purple'}}>Fikayo the badass</a></span>
               <a href="#top">Back to top ↑</a>
             </div>
           </div>
