@@ -464,7 +464,7 @@ function App() {
             <div className="footer-logo">Handshake</div>
             <div className="footer-credits">
               <span>Handshake © 2099</span>
-              <span>Built by Aaron Rolston in Framer</span>
+              <span>Built by <a href='https://fikayobytes.netlify.app/'>Fikayo the badass</a> in Framer</span>
               <a href="#top">Back to top ↑</a>
             </div>
           </div>
